@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1665930268 source:d:\courses\programming\c++ icpc\cppicpc\w1-b.cpp
+	<iostream>
+
+1665932048 source:d:\courses\programming\c++ icpc\cppicpc\w1-c.cpp
+	<iostream>
+
+1666045167 source:d:\courses\programming\c++ icpc\cppicpc\w1-g.cpp
+	<iostream>
+
+1666114719 source:d:\courses\programming\c++ icpc\cppicpc\w1-i.cpp
+	<iostream>
+
+1666115080 source:d:\courses\programming\c++ icpc\cppicpc\w1-j.cpp
+	<iostream>
+
+1666116637 source:d:\courses\programming\c++ icpc\cppicpc\w1-k.cpp
+	<iostream>
+
+1666120381 source:d:\courses\programming\c++ icpc\cppicpc\w1-l.cpp
+	<bits/stdc++.h>
+
+1666127665 source:d:\courses\programming\c++ icpc\cppicpc\w1-o.cpp
+	<bits/stdc++.h>
+
+1666289649 source:d:\courses\programming\c++ icpc\cppicpc\w1-r.cpp
+	<bits/stdc++.h>
+
